@@ -1,15 +1,16 @@
 # IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
 
 ## Instructor and Class Details
-- Professor Elizabeth Lawley  
-  - Office: 2545 Golisano Hall
-  - Email: Elizabeth.Lawley@rit.edu
-  - Office hours: Wednesday 1-5pm 
-- TA Emily Turner
-  - Email: ekt6170 at rit dot edu
+- Professor Austin Willoughby  
+  - Office: 2557 Golisano Hall
+  - Email: arwigm@rit.edu
+  - Office hours: Monday 9:30am - 11:00am, Tuesday 4:00pm - 5:00pm, Wednesday 9:30am - 11:00am.
+  	- Email me if you need to meet and these times don't work for you.
+- TA Rahul Madhyan
+  - Email: rm7755@rit.edu
   - Lab Hours: TBA
-- Class Slack: https://lawley-110-2018.slack.com/
-- Class Time/Location: Tuesdays & Thursdays, 3:30-4:45pm, 2435 Golisano Hall
+- Class Discord: https://discord.gg/eVCD3n5
+- Class Time/Location: Tuesdays & Thursdays, 6:30pm-7:45pm, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -18,7 +19,7 @@ This course provides an overview of media in historical, current and future cont
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
-We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
+We will be using Discord, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
 MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
@@ -29,7 +30,7 @@ Listening to a lecture is seldom the best way to learn a topic. As a result, whe
 The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ## Attendance
-Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz, and missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise. 
+Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Discord for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz. Missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise.
 
 ## Assignments & Grading
 These are brief descriptions of each of the assignments. Follow the links to see more detailed information. 
@@ -56,23 +57,24 @@ You will be assigned to a group for collaborative note-taking during the semeste
 
 ### Important RIT Deadlines
 - Last day of add/drop is 4 September 2018.
-- Last day to withdraw with a grade of “W” is 9 November 2017.
+- Last day to withdraw with a grade of “W” is 9 November 2018.
+	- Please speak with me and your academic advisor before withdrawing from class.
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, Elizabeth.Lawley@rit.edu. 
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord, and emailed to the classlist. This means you should regularly check the class Discord, and consider setting up @mention notifications for the general channel. I check both email and Discordck frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, arwigm@rit.edu. 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
 ### Missed Classes
 If you miss a class, it is your responsibility to check with classmates for notes to supplement the materials I've already provided online. I will not recap classes for you. 
 ### Office Hours
-I will have a minimum of four office hours per week. This is an excellent time to come in with questions on the course material, homework, or in class work. I am always happy to help you understand the course material or assignments—or just to chat about whatever topic you’d like. Take advantage of this time, since few students bother to talk with their professors outside of class. If for some reason I’m called away during office hours, there will be a note on the door. 
+I will have a minimum of four office hours per week. This is an excellent time to come in with questions on the course material, homework, or in class work. I am always happy to help you understand the course material or assignments—or just to chat about whatever topic you’d like. Take advantage of this time, since few students bother to talk with their professors outside of class. I am also available whenever my door is open. If for some reason I’m called away during office hours, there will be a note on the door. 
 ### Mobile Phones 
 Please turn off sounds on your phone, so that you don’t disturb the people around you with notification noises. If you must take a call, please leave the room to do so. 
 ### Notices of Accommodation
 If you have a notice of accommodation, I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met. 
 ### Social Networks
-I don’t initiate friend requests on Facebook, because I don’t want you to feel obligated to accept. However, I do generally accept friend requests from students. I have a private Twitter account that I seldom use, and don’t accept follower requests on it. I maintain a LinkedIn account, and am happy to connect with students there in order to help them find job-related connections. Links to my various social media accounts can be found on my website (lawley.rit.edu). 
+I do not add current students to my facebook friends list, but I am happy to connect with you after graduation. Alternatively, I maintain a [LinkedIn account](https://www.linkedin.com/in/willoughbyaustin), and am happy to connect with students there in order to help them find job-related connections.
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, and then only by prior arrangement with me. Note that I only give incompletes in the event of: 1) military deployment or 2) documented and verifiable family or personal illness/emergency. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework does not fall into either of those two categories. Please come see me ASAP if you’re having difficulty so we can find a solution together. 
 ### Academic Dishonesty
