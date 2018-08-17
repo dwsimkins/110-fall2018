@@ -8,7 +8,6 @@
   	- Email me if you need to meet and these times don't work for you.
 - TA Rahul Madhyan
   - Email: rm7755@rit.edu
-  - Lab Hours: TBA
 - Class Discord: https://discord.gg/eVCD3n5
 - Class Time/Location: Tuesdays & Thursdays, 6:30pm-7:45pm, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
