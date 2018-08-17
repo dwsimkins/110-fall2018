@@ -4,8 +4,11 @@
 - Professor Austin Willoughby  
   - Office: 2557 Golisano Hall
   - Email: arwigm@rit.edu
-  - Office hours: Monday 9:30am - 11:00am, Tuesday 4:00pm - 5:00pm, Wednesday 9:30am - 11:00am.
-  	- Email me if you need to meet and these times don't work for you.
+  - Office hours: 
+  	- Monday 9:30am - 11:00am
+	- Tuesday 4:00pm - 5:00pm
+	- Wednesday 9:30am - 11:00am.
+  		- Email me if you need to meet and these times don't work for you.
 - TA Rahul Madhyan
   - Email: rm7755@rit.edu
 - Class Discord: https://discord.gg/eVCD3n5
