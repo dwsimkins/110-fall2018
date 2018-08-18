@@ -12,4 +12,4 @@
 
 6. Configure your Discord notifications. You can change the overall settings for the Discord, and then you can override the global settings on a channel-by-channel basis by right clicking a channel and muting it. I normally will configure my notifications to only notify me of @mentions, which will include people @mentioning you by name or @mentioning @everyone. You're welcome to set it up in whatever way works best for you. (However, since the #announcements channel is used only by the professor and TA for class-wide announcements, it's probably a bad idea to mute that channel!)
 
-***If you have an iOS or Android mobile device, I highly recommend installing the Discord app so that you don't have to be in front of a computer to get notifications! The Discord desktop app is also nicer to use than the webapp.***
+***If you have an iOS or Android mobile device, I highly recommend installing the Discord app so that you don't have to be in front of a computer to get notifications! The Discord desktop app is also nicer to use than the web based version.***
