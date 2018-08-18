@@ -14,7 +14,7 @@ Type banjo.rit.edu into the host name box, make sure that the SSH button is sele
 If you see the following text, it means you've successfully connected:
 
 ```
-Last login: Thu May 18 11:57:55 2017 from lawleymbp.wireless.rit.edu
+Last login: Thu May 18 11:57:55 2017 from willoughbymbp.wireless.rit.edu
 
 RIT information technology resources are for the use of the RIT community only. By using RIT information technology resources you acknowledge that you have read and comply with RIT's Code of Conduct for Computer and Network Use and RIT's Information Security Policy and Standards. Use of RIT information technology resources may be monitored and unauthorized use is strictly prohibited.
 ```

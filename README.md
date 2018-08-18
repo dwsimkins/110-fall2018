@@ -23,7 +23,7 @@ There is no required textbook for the course, but there will be an assortment of
 
 We will be using Discord, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
-MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
+MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Discord. 
 
 ## Course Organization
 Listening to a lecture is seldom the best way to learn a topic. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
@@ -104,5 +104,5 @@ If you have a concern related to gender-based discrimination and/or harassment a
 585-475-6468 (v), 585-286-4070 (vp)
 
 ## Finally...
-Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Slack. 
+Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Discord. 
 

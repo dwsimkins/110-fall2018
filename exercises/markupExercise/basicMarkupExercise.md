@@ -17,7 +17,7 @@ On your computer (or on a USB drive) create a folder called RIT Web. Inside that
 
 Using VS Code (or your HTML editor of choice), create a new HTML file in the igme110 folder called index.html. 
 
-In the head of the document, add this content to the title element (using your name, of course): `<title>Elizabeth Lawley's IGME 110 Page</title>`
+In the head of the document, add this content to the title element (using your name, of course): `<title>Austin Willoughby's IGME 110 Page</title>`
 
 In the body of the document, add a level 1 heading element containing your name. Below that, add a paragraph element that that includes a few lines about yourself. Save the file. 
 

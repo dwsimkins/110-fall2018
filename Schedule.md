@@ -19,18 +19,17 @@
 - [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
 
 ## <a name="week1">Week 1</a> (Aug 28/30): Course Overview & Communication Tools
-On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
+On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Discord, and Google Docs.  
 
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](exercises/commHomework/commHomework.md)**: Set up your Slack account, add a photo and a post to the #introductions channel, and send an email with your Slack username to the professor and the TA.  
+- **[Tuesday Homework](exercises/commHomework/commHomework.md)**: Set up your Discord account, change your nickname on our server, post to the #general channel, and send an email to the professor and the TA.  
 
 - **<a name="w1-th-readings">Thursday Readings</a>**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
-   - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) *(Note: In our class Slack, the #general channel has been renamed to #announcements)*
 
-- **[Thursday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
+- **[Thursday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Discord. 
 
 ## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
