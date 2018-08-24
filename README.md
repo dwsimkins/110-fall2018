@@ -1,18 +1,16 @@
 # IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
 
 ## Instructor and Class Details
-- Professor Austin Willoughby  
-  - Office: 2557 Golisano Hall
-  - Email: arwigm@rit.edu
+- Professor David Simkins  
+  - Office: 3160 Magic (MSS)
+  - Email: dwsimkins@rit.edu
   - Office hours: 
-  	- Monday 9:30am - 11:00am
-	- Tuesday 4:00pm - 5:00pm
-	- Wednesday 9:30am - 11:00am.
-  		- Email me if you need to meet and these times don't work for you.
-- TA Rahul Madhyan
-  - Email: rm7755@rit.edu
+	- Tuesday 3:00pm - 4:30pm
+	- Wednesday 3:30pm - 5:00pm.
+	- Also by appointment
+- TA TBD
 - Class Discord: https://discord.gg/eVCD3n5
-- Class Time/Location: Tuesdays & Thursdays, 6:30pm-7:45pm, 1370 Orange Hall
+- Class Time/Location: Tuesdays & Thursdays, 5:00pm - 6:15pm, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -41,7 +39,7 @@ These are brief descriptions of each of the assignments. Follow the links to see
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise. 
 
 ### [Research Paper (20% of final grade)](projects/Paper.md)
-For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument. 
+For your research paper, you will need to select a topic related to interactive media (including but not limited to games), identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument. 
 
 ### [Web Site (20% of final grade)](projects/Website.md)
 To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.  
@@ -50,7 +48,7 @@ To demonstrate your understand of basic web development, you will create a websi
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration. 
 
 ### Quizzes (10% of final grade)
-I will give at least one quiz each week, with content drawn from that week’s readings. You are allowed to bring a sheet of (handwritten) notes with you to class to use while taking the quiz. The quizzes will also serve as an attendance-taking mechanism.  There are 15 weeks of lecture, but at the end of the semester I will drop your lowest five quiz grades, so only the top ten quizzes will count. I do not give makeup quizzes; if you miss a quiz, even for an excused absence, it will count as one of your dropped grades.
+I will give at least one quiz each week, with content drawn from that week’s readings. You are allowed to bring a sheet of (handwritten) notes with you to class to use while taking the quiz (both sides, 8.5"x11"). The quizzes will also serve as an attendance-taking mechanism.  There are 15 weeks of lecture, but at the end of the semester I will drop your lowest five quiz grades, so only the top ten quizzes will count. I do not give makeup quizzes; if you miss a quiz, even for an excused absence, it will count as one of your dropped grades.
 
 ### Group Notes  (10% of final grade)
 You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit.
@@ -76,7 +74,7 @@ Please turn off sounds on your phone, so that you don’t disturb the people aro
 ### Notices of Accommodation
 If you have a notice of accommodation, I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met. 
 ### Social Networks
-I do not add current students to my facebook friends list, but I am happy to connect with you after graduation. Alternatively, I maintain a [LinkedIn account](https://www.linkedin.com/in/willoughbyaustin), and am happy to connect with students there in order to help them find job-related connections.
+I do not invite students to Facebook, but you may invite me if you wish. I encourage you to connect with me on LinkedIn.
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, and then only by prior arrangement with me. Note that I only give incompletes in the event of: 1) military deployment or 2) documented and verifiable family or personal illness/emergency. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework does not fall into either of those two categories. Please come see me ASAP if you’re having difficulty so we can find a solution together. 
 ### Academic Dishonesty
@@ -102,6 +100,9 @@ If you have a concern related to gender-based discrimination and/or harassment a
 585-475-2137.
 6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson
 585-475-6468 (v), 585-286-4070 (vp)
+
+## Timely Grading
+I have every intention of returning all graded material within a few days. However, I reserve the right to grade course materials in my own time, and may at my discretion not meet the desired two-week window to return grades.
 
 ## Finally...
 Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Discord. 
