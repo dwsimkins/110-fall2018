@@ -9,7 +9,7 @@
 	- Wednesday 3:30pm - 5:00pm.
 	- Also by appointment
 - TA TBD
-- Class Github Repo: dwsimkins/110-fall2018
+- Class Github Repo: https://github.com/dwsimkins/110-fall2018
 - Class Discord: https://discord.gg/UM6FPD
 - Class Time/Location: Tuesdays & Thursdays, 5:00pm - 6:15pm, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
