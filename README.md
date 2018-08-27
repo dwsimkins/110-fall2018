@@ -2,7 +2,7 @@
 
 ## Instructor and Class Details
 - Professor David Simkins  
-  - Office: 3160 Magic (MSS)
+  - Office: 3160 MAGIC (MSS-3160)
   - Email: dwsimkins@rit.edu
   - Office hours: 
 	- Tuesday 3:00pm - 4:30pm
