@@ -1,6 +1,6 @@
 # Week 1 Thursday Exercise: Google Drive and Discord Collaboration
 
-1. Log into RIT's Google Apps site (http://google.rit.edu), go to the Drive section, and select the "Shared With Me" option in the left sidebar. You should see a folder for your group (e.g. "IGME.110.2018 Group X"). If you don't see it, let Professor Willoughby or Rahul know that there's a problem. 
+1. Log into RIT's Google Apps site (http://google.rit.edu), go to the Drive section, and select the "Shared With Me" option in the left sidebar. You should see a folder for your group (e.g. "IGME.110.2018 Group X"). If you don't see it, let your professor or TA know that there's a problem. 
 
 2. Right-click the group folder, and from the drop-down menu choose "Add to My Drive". (You may also want to "Star" the folder to make it easier to find, since Google Drive can be confusing to navigate.)
 
