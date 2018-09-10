@@ -8,7 +8,8 @@
 	- Tuesday 3:00pm - 4:30pm
 	- Wednesday 3:30pm - 5:00pm.
 	- Also by appointment
-- TA TBD
+- TA Ashwin Ganapathiraju
+  - Email: axg3886@rit.edu
 - Class Github Repo: https://github.com/dwsimkins/110-fall2018
 - Class Discord: https://discord.gg/UM6FPD
 - Class Time/Location: Tuesdays & Thursdays, 5:00pm - 6:15pm, 1370 Orange Hall
